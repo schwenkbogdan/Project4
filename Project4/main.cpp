@@ -63,7 +63,7 @@ void PrintComplex()
 
 	ComplexNumbers Z1;
 	ComplexNumbers Z2;
-	ComplexNumbers Zres;
+	ComplexNumbers Zres, Zres1, Zres2;
 	Zres = Z1.operator+(Z2);
 	cout << "Z1 + Z2 = " << Zres;
 	Zres = Z1.operator-(Z2);
