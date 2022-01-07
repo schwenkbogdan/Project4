@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="fraction.cpp">
@@ -30,7 +30,13 @@
     <ClCompile Include="DateTime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ErrorClass.cpp">
+    <ClCompile Include="IError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputIError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MathIError.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -47,7 +53,13 @@
     <ClInclude Include="DateTime.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ErrorClass.h">
+    <ClInclude Include="IError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputIError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MathIError.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
