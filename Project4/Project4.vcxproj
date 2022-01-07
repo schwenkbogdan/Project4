@@ -142,14 +142,20 @@
     <ClCompile Include="ComplexNumbers.cpp" />
     <ClCompile Include="DateTime.cpp" />
     <ClCompile Include="fraction.cpp" />
+    <ClCompile Include="IError.cpp" />
+    <ClCompile Include="InputIError.cpp" />
     <ClCompile Include="Logger.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MathIError.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ComplexNumbers.h" />
     <ClInclude Include="DateTime.h" />
     <ClInclude Include="fraction.h" />
+    <ClInclude Include="IError.h" />
+    <ClInclude Include="InputIError.h" />
     <ClInclude Include="Logger.h" />
+    <ClInclude Include="MathIError.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
