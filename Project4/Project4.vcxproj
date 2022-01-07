@@ -141,7 +141,6 @@
   <ItemGroup>
     <ClCompile Include="ComplexNumbers.cpp" />
     <ClCompile Include="DateTime.cpp" />
-    <ClCompile Include="ErrorClass.cpp" />
     <ClCompile Include="fraction.cpp" />
     <ClCompile Include="Logger.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -149,7 +148,6 @@
   <ItemGroup>
     <ClInclude Include="ComplexNumbers.h" />
     <ClInclude Include="DateTime.h" />
-    <ClInclude Include="ErrorClass.h" />
     <ClInclude Include="fraction.h" />
     <ClInclude Include="Logger.h" />
   </ItemGroup>
