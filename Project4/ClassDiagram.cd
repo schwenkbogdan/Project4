@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComplexNumbers" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAACAAgAAAAAAAAACQEAgAAAAAAA=</HashCode>
+      <FileName>ComplexNumbers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DateTime" Collapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAQAAABgAEAAAAA=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fraction" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAA=</HashCode>
+      <FileName>fraction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IError" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputIError" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>InputIError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAIAAAAIAAAACAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathIError" Collapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAA=</HashCode>
+      <FileName>MathIError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Date" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Time" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
